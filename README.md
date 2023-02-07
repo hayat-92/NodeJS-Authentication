@@ -13,6 +13,13 @@ It is A authentication system which have following features
 - Users can change password.
 - Password is stored in Database in encrypted form-Which has been implemented by bcryptJS
 
+## Steps to run this App on Local Machine.
+- Fork the project
+- Clone the forked repository in your local system
+- run the command on your terminal npm install to install all dependencies
+- run the command on your terminal npm start to start the server running on the port 8000
+- now then just go and type localhost:8000 on your system then it will run fine
+
 ## Preview
 ### Login Page
 ![image](https://user-images.githubusercontent.com/68597674/217047669-9f015d4b-dfca-41a8-94cc-f30043ba4e80.png)
